@@ -1,0 +1,28 @@
+{
+  "Headings": ["Violence", "Psychological", "Emotional", "Atmosphere", "Financial"],
+  "Games": [
+    {
+      "Title": "Example Game One (from GitHub)",
+      "Maturity": "Moderate (9+)",
+      "Ratings": {
+        "Violence": 3.5,
+        "Psychological": 2,
+        "Emotional": 2.5,
+        "Atmosphere": 2,
+        "Financial": 1
+      }
+    },
+    {
+      "Title": "Example Game Two",
+      "Maturity": "Mild (5+)",
+      "Ratings": {
+        "Violence": 1,
+        "Financial": 3
+      }
+    },
+    {
+      "Title": "Example Game Three",
+      "Maturity": "Moderate (9+)"
+    }
+  ]
+}
